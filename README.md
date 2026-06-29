@@ -30,13 +30,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/0043-multiply-strings) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/0050-powx-n) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/0050-powx-n) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
