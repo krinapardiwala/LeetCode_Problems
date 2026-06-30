@@ -33,11 +33,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/0043-multiply-strings) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2063-vowels-of-all-substrings](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/2063-vowels-of-all-substrings) |
 ## Math
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/0050-powx-n) |
+| [2063-vowels-of-all-substrings](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/2063-vowels-of-all-substrings) |
 ## Recursion
 |  |
 | ------- |
@@ -54,4 +56,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2063-vowels-of-all-substrings](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/2063-vowels-of-all-substrings) |
+## Combinatorics
+|  |
+| ------- |
+| [2063-vowels-of-all-substrings](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/2063-vowels-of-all-substrings) |
 <!---LeetCode Topics End-->
