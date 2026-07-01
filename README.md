@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/0162-find-peak-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1901-find-a-peak-element-ii](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/1901-find-a-peak-element-ii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -24,11 +25,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/0162-find-peak-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/1901-find-a-peak-element-ii) |
 ## Matrix
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/1901-find-a-peak-element-ii) |
 ## String
 |  |
@@ -67,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2063-vowels-of-all-substrings](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/2063-vowels-of-all-substrings) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
