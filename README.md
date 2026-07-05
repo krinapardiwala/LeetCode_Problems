@@ -11,17 +11,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0658-find-k-closest-elements](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/0658-find-k-closest-elements) |
 | [0665-non-decreasing-array](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/0665-non-decreasing-array) |
+| [0881-boats-to-save-people](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/0881-boats-to-save-people) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1901-find-a-peak-element-ii](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/1901-find-a-peak-element-ii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Greedy
 |  |
 | ------- |
+| [0881-boats-to-save-people](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/0881-boats-to-save-people) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Sorting
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/0658-find-k-closest-elements) |
+| [0881-boats-to-save-people](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/0881-boats-to-save-people) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Binary Search
 |  |
@@ -91,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0658-find-k-closest-elements](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/0658-find-k-closest-elements) |
+| [0881-boats-to-save-people](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/0881-boats-to-save-people) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
