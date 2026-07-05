@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0658-find-k-closest-elements](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/0658-find-k-closest-elements) |
 | [0665-non-decreasing-array](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/0665-non-decreasing-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1901-find-a-peak-element-ii](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/1901-find-a-peak-element-ii) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/0658-find-k-closest-elements) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Binary Search
 |  |
@@ -27,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0658-find-k-closest-elements](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/0658-find-k-closest-elements) |
 | [1901-find-a-peak-element-ii](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/1901-find-a-peak-element-ii) |
 ## Matrix
 |  |
@@ -63,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/0658-find-k-closest-elements) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Dynamic Programming
 |  |
@@ -86,4 +90,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0658-find-k-closest-elements](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/0658-find-k-closest-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
