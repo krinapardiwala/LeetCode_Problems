@@ -4,6 +4,8 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
+
+#not optimal but brute-force recursive approach
 class Solution(object):
     def countNodes(self, root):
         if root is None:
