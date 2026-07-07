@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/0050-powx-n) |
 | [2063-vowels-of-all-substrings](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/2063-vowels-of-all-substrings) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Recursion
 |  |
 | ------- |
