@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/0877-stone-game) |
 | [2063-vowels-of-all-substrings](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/2063-vowels-of-all-substrings) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Recursion
@@ -180,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/0877-stone-game) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
