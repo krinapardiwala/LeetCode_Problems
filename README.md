@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/0658-find-k-closest-elements) |
 | [0665-non-decreasing-array](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/0665-non-decreasing-array) |
+| [0795-number-of-subarrays-with-bounded-maximum](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0877-stone-game](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/0881-boats-to-save-people) |
 | [1288-remove-covered-intervals](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/1288-remove-covered-intervals) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0287-find-the-duplicate-number](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/0287-find-the-duplicate-number) |
 | [0658-find-k-closest-elements](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/0658-find-k-closest-elements) |
+| [0795-number-of-subarrays-with-bounded-maximum](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0881-boats-to-save-people](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/0881-boats-to-save-people) |
 ## Heap (Priority Queue)
 |  |
