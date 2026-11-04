@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0877-stone-game](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/0881-boats-to-save-people) |
+| [0948-bag-of-tokens](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/0948-bag-of-tokens) |
 | [1288-remove-covered-intervals](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/0881-boats-to-save-people) |
+| [0948-bag-of-tokens](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/0948-bag-of-tokens) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Sorting
 |  |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/0881-boats-to-save-people) |
+| [0948-bag-of-tokens](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/0948-bag-of-tokens) |
 | [1288-remove-covered-intervals](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/0658-find-k-closest-elements) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0881-boats-to-save-people](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/0881-boats-to-save-people) |
+| [0948-bag-of-tokens](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/0948-bag-of-tokens) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
