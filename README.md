@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/0948-bag-of-tokens) |
 | [1288-remove-covered-intervals](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/1288-remove-covered-intervals) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1901-find-a-peak-element-ii](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/1901-find-a-peak-element-ii) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/0948-bag-of-tokens) |
 | [1288-remove-covered-intervals](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/1288-remove-covered-intervals) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3536-maximum-product-of-two-digits](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/3536-maximum-product-of-two-digits) |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/0287-find-the-duplicate-number) |
 | [0658-find-k-closest-elements](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/0658-find-k-closest-elements) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1901-find-a-peak-element-ii](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/1901-find-a-peak-element-ii) |
 ## Matrix
 |  |
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0881-boats-to-save-people](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/0948-bag-of-tokens) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
