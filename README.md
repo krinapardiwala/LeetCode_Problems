@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1901-find-a-peak-element-ii](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/1901-find-a-peak-element-ii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2747-count-zero-request-servers](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/2747-count-zero-request-servers) |
 | [3731-find-missing-elements](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Greedy
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2747-count-zero-request-servers](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/2747-count-zero-request-servers) |
 | [3536-maximum-product-of-two-digits](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/3731-find-missing-elements) |
 ## Binary Search
@@ -98,12 +100,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0645-set-mismatch](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/0645-set-mismatch) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2747-count-zero-request-servers](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/2747-count-zero-request-servers) |
 | [3731-find-missing-elements](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/3731-find-missing-elements) |
 ## Sliding Window
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/0658-find-k-closest-elements) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2747-count-zero-request-servers](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/2747-count-zero-request-servers) |
 ## Dynamic Programming
 |  |
 | ------- |
