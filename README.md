@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0043-multiply-strings](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/0043-multiply-strings) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2063-vowels-of-all-substrings](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/2063-vowels-of-all-substrings) |
 ## Math
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0645-set-mismatch](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/0645-set-mismatch) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2747-count-zero-request-servers](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/2747-count-zero-request-servers) |
 | [3731-find-missing-elements](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/3731-find-missing-elements) |
 ## Sliding Window
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/0645-set-mismatch) |
+| [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 ## Stack
 |  |
 | ------- |
@@ -236,4 +239,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/0713-subarray-product-less-than-k) |
+| [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 <!---LeetCode Topics End-->
