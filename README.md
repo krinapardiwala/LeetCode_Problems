@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/1901-find-a-peak-element-ii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2747-count-zero-request-servers](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/2747-count-zero-request-servers) |
+| [3693-climbing-stairs-ii](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/3693-climbing-stairs-ii) |
 | [3731-find-missing-elements](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Greedy
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0877-stone-game](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/0877-stone-game) |
 | [2063-vowels-of-all-substrings](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/2063-vowels-of-all-substrings) |
+| [3693-climbing-stairs-ii](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/3693-climbing-stairs-ii) |
 ## Combinatorics
 |  |
 | ------- |
