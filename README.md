@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/0948-bag-of-tokens) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Sorting
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-maximum-product-of-two-digits](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/krinapardiwala/LeetCode_Problems/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Recursion
 |  |
 | ------- |
